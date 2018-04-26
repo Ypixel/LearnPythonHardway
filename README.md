@@ -1,0 +1,2 @@
+# Learnpythonhardway
+python leran noob
