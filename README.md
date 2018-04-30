@@ -1,5 +1,7 @@
-# ddddddddd
-=======
+# keep learning
+
 # Learnpythonhardway
-python leran noob
+
+#python leran noob
+
 #GO
